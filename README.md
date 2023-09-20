@@ -23,6 +23,8 @@ To develop the application and its interface, the following resources were used:
   
 # Functionality showcase
 
-https://github.com/Pavel-Gherciu/PathProwess/assets/62070101/83a7e3c8-e10c-4fd2-96be-57a1b625350b
+https://github.com/Pavel-Gherciu/PathProwess/assets/62070101/ef89ca33-a85e-4a8a-b728-29173abddbdf
+
+
 
 
